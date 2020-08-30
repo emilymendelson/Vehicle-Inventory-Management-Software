@@ -1,6 +1,3 @@
-# Name: Emily Mendelson (20071835)
-# Date: Monday, July 20, 2020
-
 # Module: add_vehicles
 # This module enables the user to add a new vehicle to the data structure, vehicle_info.
 
