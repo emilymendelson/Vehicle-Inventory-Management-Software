@@ -1,6 +1,3 @@
-# Name: Emily Mendelson (20071835)
-# Date: Monday, July 20, 2020
-
 # Module: menu
 
 """This module provides the user with a menu to select options from. The user can choose to add a vehicle, update
