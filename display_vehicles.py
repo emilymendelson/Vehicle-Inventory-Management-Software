@@ -1,6 +1,3 @@
-# Name: Emily Mendelson (20071835)
-# Date: Monday, July 20, 2020
-
 # Module: display_vehicles
 
 """The display_vehicles module lists all vehicles, lists vehicles by make, type, and availability, lists vehicle ID
