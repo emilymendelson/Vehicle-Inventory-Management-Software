@@ -1,6 +1,3 @@
-# Name: Emily Mendelson (20071835)
-# Date: Monday, July 20, 2020
-
 # Module: retrieve_vehicle
 # This module enables the user to retrieve specific vehicle information within the data structure based on user input.
 
