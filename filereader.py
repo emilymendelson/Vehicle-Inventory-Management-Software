@@ -1,6 +1,3 @@
-# Name: Emily Mendelson (20071835)
-# Date: Monday, July 20, 2020
-
 # Module: filereader
 # This module is used in the add_vehicles, update_vehicles, display_vehicles, and retrieve_vehicles modules.
 
