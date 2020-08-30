@@ -1,6 +1,3 @@
-# Name: Emily Mendelson (20071835)
-# Date: Monday, July 20, 2020
-
 # Module: update_vehicles
 # This module enables the user to update or delete vehicle information within the data structure, vehicle_info.
 
